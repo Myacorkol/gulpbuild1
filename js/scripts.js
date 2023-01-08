@@ -81,7 +81,7 @@ function burgerMenu() {
         <div class="select__backdrop" data-type="backdrop"></div>
         <div class="select__input" data-type="input">
             <span data-type="value">${text}</span>
-            <img src="../img/select-arrow.svg" alt="arrow" data-type="arrow" class="select__arrow">
+            <img src="./img/select-arrow.svg" alt="arrow" data-type="arrow" class="select__arrow">
         </div>
         <div class="select__dropdown">
             <ul class="select__list">
